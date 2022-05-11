@@ -26,8 +26,8 @@
         "isRoundedButtons": true,
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
-        "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isAnimatedOnScroll": false,
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#e64539",
