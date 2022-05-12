@@ -727,6 +727,13 @@ a {
     width: 100%;
   }
 }
+.cid-t5vgVOLS1a .mbr-section-title {
+  color: #fafafa;
+}
+.cid-t5vgVOLS1a .mbr-text,
+.cid-t5vgVOLS1a .mbr-section-btn {
+  color: #bbbbbb;
+}
 .cid-t5BqJpYYOa {
   display: flex;
   padding-top: 30px;
@@ -770,7 +777,7 @@ a {
   }
 }
 .cid-t5BwUIwiBr {
-  padding-top: 3rem;
+  padding-top: 4rem;
   padding-bottom: 1rem;
   background-color: #66343a;
 }
